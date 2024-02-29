@@ -4,4 +4,7 @@ module full_adder(input a,b,c,output sum,cout);
  assign {cout,sum}=a+b+c;
 endmodule
 //thank you
-//jaswanth 
+//jaswanth
+//welcome
+//ghtsdg
+//gdyd 
